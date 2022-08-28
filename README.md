@@ -38,4 +38,6 @@ Escrita de cenários de teste para o site  https://buger-eats-qa.vercel.app/
 
 ### **3 - Desafio 2**
 
-Automação dos cenários de CPF Válido e Inválido.
+Automação dos cenários de Cadastro com sucesso e CPF Inválido em Cypress.
+
+OBRIGADO!
