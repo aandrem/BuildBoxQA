@@ -1,0 +1,15 @@
+{
+  "name": "testscases",
+  "version": "1.0.0",
+  "description": "Automação Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "André Martins",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.3.0",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
